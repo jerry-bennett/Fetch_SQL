@@ -1,0 +1,3 @@
+receipt_id,purchase_date,rewards_product_partner_id,barcode,description,quantity_purchased,final_price,rewardsReceiptStatus
+5ff1e1eb0a720f0523000575,1609632000.0,,4011,ITEM NOT FOUND,5,26.0,FINISHED
+5ff1e1bb0a720f052300056b,1609601083.0,,4011,ITEM NOT FOUND,2,11.0,FINISHED
